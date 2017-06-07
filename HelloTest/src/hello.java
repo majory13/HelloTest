@@ -5,6 +5,7 @@ public class hello {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.print("123");
+		System.out.print("456");
 	}
 
 }
