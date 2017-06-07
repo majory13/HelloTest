@@ -5,7 +5,6 @@ public class hello {
 		// TODO
 
 		System.out.print("123");
-		System.out.print("456");
 	}
 
 }
