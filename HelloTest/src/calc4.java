@@ -5,7 +5,7 @@ public class calc4 {
 		System.out.print(2);
 		String s = "this is a new class";
 		System.out.print(s);
-		System.out.print("9");
+		System.out.print("6");
 	}
 
 }
